@@ -1,1 +1,6 @@
-class policy {}
+class policy {
+
+	void fun(){
+	}
+}
+
